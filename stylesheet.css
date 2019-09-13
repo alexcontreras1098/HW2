@@ -2,7 +2,7 @@
 
 body {
   background-color:Silver;
-	color:white;
+	color:black;
 	font-size:1.25em;
 }
 /* this is where your resume would go */
@@ -12,8 +12,8 @@ body {
 
 .content{
   background-color:lightgray;
-  width:70%; /* set the width you want for the div */
-  margin: 0 auto; /* used to center the div */
-  text-align:left; /* left justifies the text inside of the div */
+  width:80%;
+  margin: 0 auto; 
+  text-align:left; 
   padding:20px;
 }
